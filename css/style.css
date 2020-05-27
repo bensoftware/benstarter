@@ -13,15 +13,15 @@
   --orange: #fd7e14;
   --yellow: #ffc107;
   --green: #fd6100;
-  --teal: #20c997;
-  --cyan: #17a2b8;
+  --teal: #fd6100;
+  --cyan: #fd6100;
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #007bff;
+  --primary: #fd6100;
   --secondary: #6c757d;
   --success: #fd6100;
-  --info: #17a2b8;
+  --info: #fd6100;
   --warning: #ffc107;
   --danger: #dc3545;
   --light: #f8f9fa;
@@ -133,11 +133,11 @@ sup {
   top: -.5em; }
 
 a {
-  color: #007bff;
+  color: #fd6100;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #0056b3;
+    color: #fd6100;
     text-decoration: underline; }
 
 a:not([href]):not([tabindex]) {
@@ -1384,21 +1384,21 @@ pre {
   border-color: #7abaff; }
 
 .table-hover .table-primary:hover {
-  background-color: #9fcdff; }
+  background-color: #fd6100; }
   .table-hover .table-primary:hover > td,
   .table-hover .table-primary:hover > th {
-    background-color: #9fcdff; }
+    background-color: #fd6100; }
 
 .table-secondary,
 .table-secondary > th,
 .table-secondary > td {
-  background-color: #d6d8db; }
+  background-color: #fd6100; }
 
 .table-secondary th,
 .table-secondary td,
 .table-secondary thead th,
 .table-secondary tbody + tbody {
-  border-color: #b3b7bb; }
+  border-color: #fd6100; }
 
 .table-hover .table-secondary:hover {
   background-color: #c8cbcf; }
